@@ -8,8 +8,8 @@ output_features:
     name: airline_sentiment
     type: category
    
-# training:
-#     epochs: 50
+training:
+    epochs: 50
 
 
 
