@@ -1,3 +1,6 @@
+PS C:\Users\MyUser\Desktop\ML> ludwig train --dataset .\Tweets.csv --config .\model_definition.yaml
+
+
 2020-12-22 00:28:22.830053: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cudart64_110.dll
 C:\Users\MyUser\AppData\Roaming\Python\Python38\site-packages\typeguard\__init__.py:885: UserWarning: no type annotations present -- not typechecking tensorflow_addons.layers.max_unpooling_2d.MaxUnpooling2D.__init__
   warn('no type annotations present -- not typechecking {}'.format(function_name(func)))
